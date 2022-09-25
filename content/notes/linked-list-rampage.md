@@ -42,7 +42,7 @@ ___
     ```
 
 - Компиляция и исполнение C/C++ vs C#:
-  - C/C++ ![compiling process](./compiling-process.svg)
+  - C/C++ ![compiling process](notes/compiling-process.svg)
     => Компилируется в машинный код (бинарники под разную архитектуру - x86 vs ARM - не заработают в другой) который исполняется ОС/ЦПУ
   - C\# - компилируется в **байт-код - IL** (Intermediate Language) = CIL = MicroSoft Common Intermediate Language, **который исполняет виртуальная (магическая) машина** - CLR (Common Language Runtime) - он стандартизирован (существует "священная" [документация ECMA 335](https://www.ecma-international.org/publications-and-standards/standards/ecma-335/) в которой подробно описано как он работает) и называется Common Language Infrastructure (CIL)  
   -> множество языков исполняются на одной "платформе" (Компилятор + CLR)
