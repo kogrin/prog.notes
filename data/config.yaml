@@ -1,0 +1,25 @@
+name: kogrin
+enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+GitHubLink: https://github.com/kogrin/prog.notes/tree/dev/content
+enableSemanticSearch: false
+# operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description:
+  Notes on various stuff...
+page_title:
+  "🦍 Kogrin's notes"
+links:
+  # - link_name: Twitter
+  #   link: <link to twitter here>
+  - link_name: Github
+    link: https://github.com/kogrin
